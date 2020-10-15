@@ -50,8 +50,10 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
@@ -170,6 +172,10 @@
       <screen x="0" y="0" width="1280" height="732" />
     </state>
     <state x="464" y="258" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1280.732/1280.-280.1920.1080@0.0.1280.732" timestamp="1602789105063" />
+    <state x="144" y="2" key="CommitChangelistDialog2" timestamp="1602789918482">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="144" y="2" key="CommitChangelistDialog2/0.0.1280.800/1280.-280.1920.1080@0.0.1280.800" timestamp="1602789918482" />
     <state width="1238" height="204" key="GridCell.Tab.0.bottom" timestamp="1602789311021">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
@@ -186,6 +192,10 @@
       <screen x="0" y="0" width="1280" height="800" />
     </state>
     <state width="1238" height="204" key="GridCell.Tab.0.right/0.0.1280.800/1280.-280.1920.1080@0.0.1280.800" timestamp="1602789311020" />
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2" timestamp="1602789921121">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="240" y="140" key="Vcs.Push.Dialog.v2/0.0.1280.800/1280.-280.1920.1080@0.0.1280.800" timestamp="1602789921121" />
     <state x="305" y="124" key="search.everywhere.popup" timestamp="1602789690660">
       <screen x="0" y="0" width="1280" height="800" />
     </state>
